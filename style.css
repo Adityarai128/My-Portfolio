@@ -317,4 +317,7 @@ footer {
     .social-icons {
         justify-content: center;
 }
+    .footer-logo h2:hover{
+    text-decoration: underline;
+}
 }
